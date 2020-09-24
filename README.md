@@ -2,6 +2,8 @@
 
 Useful scripts and notebooks for NIVA's Data Science Toolkit.
 
+The easiest way to explore these examples is to **clone this repository to your JupyterHub** and **run the notebooks interactively**.
+
 ## GIS/spatial data
 
  * **[Basic introduction to querying spatial data via the DSToolkit](./notebooks/postgis_example.ipynb)**. Connecting to the database and exploring available datasets
