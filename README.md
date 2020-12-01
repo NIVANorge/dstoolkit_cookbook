@@ -2,7 +2,9 @@
 
 Useful scripts and notebooks for NIVA's Data Science Toolkit.
 
-The easiest way to explore these examples is to **clone this repository to your JupyterHub** and **run the notebooks interactively**. (Note that GitHub is sometimes very slow to render notebooks online, so if you see a message saying `Something went wrong` after clicking a link below, you can either try refreshing until GitHub catches up or just clone the repository and run the notebook interactively).
+The easiest way to explore these examples is to **clone this repository to your JupyterHub** and **run the notebooks interactively**. 
+
+(Note that GitHub is sometimes very slow to render notebooks online, so if you see a message saying `Sorry, something went wrong. Reload?` after clicking a link below, you can either try refreshing until GitHub catches up or just clone the repository and run the notebooks interactively).
 
 ## GIS/spatial data
 
