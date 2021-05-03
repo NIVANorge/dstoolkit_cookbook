@@ -17,6 +17,10 @@ The easiest way to explore these examples is to **clone this repository to your 
 ## Data in nivacloud (FerryBox etc.)
 
  * **[Accessing FerryBox data using pyniva](./notebooks/pyniva_example.ipynb)**. *Contributed by Zofia Rudjord*. Query and plot FerryBox data from **nivacloud** using the **pyniva** API. A more extensive example from Dag Hjermann is [here](https://github.com/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/pyniva_download_ferrybox.ipynb)
+ 
+## Querying external data sources
+
+ * **[Using NVE's Hydrological API](./notebooks/nve_hydapi_example.ipynb)**. Create an API key and query NVE data directly from the JupyterHub.
 
 ## Statistics
 
