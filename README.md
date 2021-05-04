@@ -4,7 +4,7 @@ Useful scripts and notebooks for NIVA's Data Science Toolkit.
 
 The easiest way to explore these examples is to **clone this repository to your JupyterHub** and **run the notebooks interactively**. 
 
-## Accessing NIVA datasets (Nivadatabasen/Aquamonitor and data in nivacloud e.g. FerryBox)
+## Accessing NIVA datasets (Nivadatabasen/Aquamonitor, data in nivacloud etc.)
 
  * **[Aquamonitor-Python](https://nbviewer.jupyter.org/github/NIVANorge/Aquamonitor-Python/blob/master/examples/query_chem.ipynb)**. Query project-specific water chemistry data directly to Pandas dataframes using the Aquamonitor API
  
@@ -12,15 +12,11 @@ The easiest way to explore these examples is to **clone this repository to your 
  
  * **[Accessing FerryBox data using pyniva](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/pyniva_example.ipynb)**. *Contributed by Zofia Rudjord*. Query and plot FerryBox data from **nivacloud** using the **pyniva** API. A more extensive example from Dag Hjermann is [also available](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/pyniva_download_ferrybox.ipynb)
  
- * **[River fluxes (using data from Aquamonitor and NVE)](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/estimate_fluxes_am_hydapi.ipynb)**. Query water chemistry data from Aquamonitor and discharge data from NVE, then use NivaPy to estimate riverine fluxes for a range of water chemistry parameters
- 
 ## External data sources
 
  * See **Tutorial 4 (`04_Accessing_Data.ipynb`)** in the `dstoolkit_examples/tutorials` folder on the Hub itself for details of how to access data via Met.no's [Frost API](https://frost.met.no/index.html) and [Thredds server](https://thredds.met.no/thredds/catalog.html), as well as European data hosted by [Copernicus](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset) (via the [cdsapi](https://cds.climate.copernicus.eu/api-how-to)).
 
  * **[Using NVE's Hydrological API](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/nve_hydapi_example.ipynb)**. Create an API key and query NVE data directly from the JupyterHub
- 
- * **[River fluxes (with data from Aquamonitor and NVE)](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/estimate_fluxes_am_hydapi.ipynb)**. Query water chemistry data from Aquamonitor and discharge data from NVE, then use NivaPy to estimate riverine fluxes for a range of water chemistry parameters
  
 ## GIS/spatial data
 
@@ -28,7 +24,7 @@ The easiest way to explore these examples is to **clone this repository to your 
  
  * See **Tutorial 10 (`10_Working_With_netCDFs.ipynb`)** in the `dstoolkit_examples/tutorials` folder on the Hub itself for an introduction to netCDF processing
 
- * **[Introduction to querying spatial data via the DSToolkit](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/postgis_example.ipynb)**. Connecting to the database and exploring available datasets
+ * **[Introduction to querying spatial data via the DSToolkit](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/postgis_example.ipynb)**. Connecting to the JupyterHub's PostGIS database and exploring available datasets
  
  * **[Create GIS data package](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/create_gis_package.ipynb)**. Extract a list of layers for your area of interest and create a single data package that you can download for use in e.g. desktop GIS
  
@@ -36,8 +32,6 @@ The easiest way to explore these examples is to **clone this repository to your 
 
 ## Statistics
 
- * See **Tutorial 2 (`02_Water_Quality_Time_Series.ipynb`)** in the `dstoolkit_examples/tutorials` folder on the Hub itself for examples of simple non-parametric tests for trends (Sen's slope and Mann-Kendall) using NivaPy
+ * See **Tutorial 2 (`02_Water_Quality_Time_Series.ipynb`)** in the `dstoolkit_examples/tutorials` folder on the Hub itself for examples of simple **non-parametric tests for trends** (Sen's slope and Mann-Kendall) using NivaPy
 
  * **[Estimating riverine fluxes using different methods](./notebooks/estimating_river_fluxes.ipynb)**. NivaPy includes four methods for estimating riverine fluxes. This notebook uses a synthetic dataset to explore their properties
- 
- * **[River fluxes (with data from Aquamonitor and NVE)](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/estimate_fluxes_am_hydapi.ipynb)**. Query water chemistry data from Aquamonitor and discharge data from NVE, then use NivaPy to estimate riverine fluxes for a range of water chemistry parameters
