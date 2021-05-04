@@ -34,4 +34,4 @@ The easiest way to explore these examples is to **clone this repository to your 
 
  * See **Tutorial 2 (`02_Water_Quality_Time_Series.ipynb`)** in the `dstoolkit_examples/tutorials` folder on the Hub itself for examples of simple **non-parametric tests for trends** (Sen's slope and Mann-Kendall) using NivaPy
 
- * **[Estimating riverine fluxes using different methods](./notebooks/estimating_river_fluxes.ipynb)**. NivaPy includes four methods for estimating riverine fluxes. This notebook uses a synthetic dataset to explore their properties
+ * **[Estimating riverine fluxes using different methods](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/estimating_river_fluxes.ipynb)**. NivaPy includes four methods for estimating riverine fluxes. This notebook uses a synthetic dataset to explore their properties
