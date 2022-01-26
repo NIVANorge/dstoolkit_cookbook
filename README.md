@@ -37,3 +37,7 @@ The easiest way to explore these examples is to **clone this repository to your 
  * **[Estimating riverine fluxes using different methods](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/estimating_river_fluxes.ipynb)**. NivaPy includes four methods for estimating riverine fluxes. This notebook uses a synthetic dataset to explore their properties
  
   * **[Simple linear regression](https://nbviewer.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/simple_linear_regression.ipynb)**. OLS and Sen's slope
+
+## Miscellaneous
+
+ * **[Authentication using GitHub](https://github.com/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/github_auth.md)**. Configure Git to access private GitHub repositories
