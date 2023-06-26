@@ -29,6 +29,8 @@ The easiest way to explore these examples is to **clone this repository to your 
  * **[Create GIS data package](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/create_gis_package.ipynb)**. Extract a list of layers for your area of interest and create a single data package that you can download for use in e.g. desktop GIS
  
  * **[Catchment processing](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/catchment_processing_example.ipynb)**. Query catchment boundaries from the Hub's PostGIS database and combine them with other vector and raster data sources
+ 
+ * **[DEM processing](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/dem_processing.ipynb)**. Calculate hillshade, slope and aspect maps using GDAL. Explore terrain properties and extract data based on masks
 
 ## Statistics
 
