@@ -10,6 +10,8 @@ The easiest way to explore these examples is to **clone this repository to your 
  
  * **[AquamonitR](https://nbviewer.jupyter.org/github/NIVANorge/aquamonitR/blob/main/examples/query_chem.ipynb)**. Query project-specific water chemistry data directly to R dataframes using the Aquamonitor API (an R equivalent of the Aquamonitor-Python package) 
  
+ * **[Direct access to Oracle using nivapy](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/oracle_example.ipynb)**. Create a direct connection to Nivabasen (NIVA's Oracle database instance) and execute your own queries. More flexible than Aquamonitor-Python or AquamonitR, but also more complicated
+ 
  * **[Accessing FerryBox data using pyniva](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/pyniva_example.ipynb)**. *Contributed by Zofia Rudjord*. Query and plot FerryBox data from **nivacloud** using the **pyniva** API. A more extensive example from Dag Hjermann is [also available](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/pyniva_download_ferrybox.ipynb)
  
 ## External data sources
