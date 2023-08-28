@@ -12,6 +12,8 @@ The easiest way to explore these examples is to **clone this repository to your 
  
  * **[Direct access to Oracle using nivapy](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/oracle_example.ipynb)**. Create a direct connection to Nivabasen (NIVA's Oracle database instance) and execute your own queries. More flexible than Aquamonitor-Python or AquamonitR, but also more complicated
  
+ * **[Direct access to databases using R](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/r_db_connections.ipynb)**. A rough notebook providing hints for setting up direct connections to Hub databases from R
+ 
  * **[Accessing FerryBox data using pyniva](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/pyniva_example.ipynb)**. *Contributed by Zofia Rudjord*. Query and plot FerryBox data from **nivacloud** using the **pyniva** API. A more extensive example from Dag Hjermann is [also available](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/pyniva_download_ferrybox.ipynb)
  
 ## External data sources
