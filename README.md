@@ -8,6 +8,8 @@ The easiest way to explore these examples is to **clone this repository to your 
 
  * **[Aquamonitor-Python](https://nbviewer.jupyter.org/github/NIVANorge/Aquamonitor-Python/blob/master/examples/query_chem.ipynb)**. Query project-specific water chemistry data directly to Pandas dataframes using the Aquamonitor API
  
+ * **[Aquamonitor-Python Excel download](https://github.com/NIVANorge/niva_datasci_toolkit/blob/master/dstoolkit_examples/tutorials/11_Download_Excel_file_from_AquaMonitor.ipynb)**. *Contributed by Roar Branden*. Aquamonitor-Python also provides options for downloading data in Excel format. 
+ 
  * **[AquamonitR](https://nbviewer.jupyter.org/github/NIVANorge/aquamonitR/blob/main/examples/query_chem.ipynb)**. Query project-specific water chemistry data directly to R dataframes using the Aquamonitor API (an R equivalent of the Aquamonitor-Python package) 
  
  * **[Direct access to Oracle using nivapy](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/oracle_example.ipynb)**. Create a direct connection to Nivabasen (NIVA's Oracle database instance) and execute your own queries. More flexible than Aquamonitor-Python or AquamonitR, but also more complicated
