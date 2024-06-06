@@ -20,6 +20,8 @@ The easiest way to explore these examples is to **clone this repository to your 
  
 ## External data sources
 
+ * **[Accessing data in Vannmiljø](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/vannmiljo_api.ipynb)**. How to use functions in `nivapy` to query data directly from Vannmiljø.
+
  * See **Tutorial 4 (`04_Accessing_Data.ipynb`)** in the `dstoolkit_examples/tutorials` folder on the Hub itself for details of how to access data via Met.no's [Frost API](https://frost.met.no/index.html) and [Thredds server](https://thredds.met.no/thredds/catalog.html), as well as European data hosted by [Copernicus](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset) (via the [cdsapi](https://cds.climate.copernicus.eu/api-how-to)).
 
  * **[Using NVE's Hydrological API](https://nbviewer.jupyter.org/github/NIVANorge/dstoolkit_cookbook/blob/master/notebooks/nve_hydapi_example.ipynb)**. Create an API key and query NVE data directly from the JupyterHub
