@@ -6,7 +6,7 @@ The easiest way to explore these examples is to **clone this repository to your 
 
 ## Accessing NIVA datasets (Nivadatabasen/Aquamonitor, data in nivacloud etc.)
 
- * **[Aquamonitor-Python](https://nbviewer.jupyter.org/github/NIVANorge/Aquamonitor-Python/blob/master/examples/query_chem.ipynb)**. Query project-specific water chemistry data directly to Pandas dataframes using the Aquamonitor API
+ * **[Aquamonitor-Python](https://nbviewer.org/github/NIVANorge/Aquamonitor-Python/blob/main/examples/query_chem.ipynb)**. Query project-specific water chemistry data directly to Pandas dataframes using the Aquamonitor API
  
  * **[Aquamonitor-Python Excel download](https://github.com/NIVANorge/niva_datasci_toolkit/blob/master/dstoolkit_examples/tutorials/11_Download_Excel_file_from_AquaMonitor.ipynb)**. *Contributed by Roar Branden*. Aquamonitor-Python also provides options for downloading data in Excel format. 
  
